@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>isim alani kontrol</description>
+   <name>TC006-wrong-passengerID-negative-test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec49731a-f321-4243-8285-895df80bbea6</testCaseGuid>
+</TestCaseEntity>

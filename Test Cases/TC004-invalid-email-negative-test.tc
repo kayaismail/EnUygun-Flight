@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004-invalid-email-negative-test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee65e665-4600-4227-9f4a-bc089d0ee9fc</testCaseGuid>
+</TestCaseEntity>

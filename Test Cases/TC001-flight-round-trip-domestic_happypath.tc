@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>yurt ici gidis donus senaryosu rezervasyon asamasina kadar test</description>
+   <name>TC001-flight-round-trip-domestic_happypath</name>
+   <tag>gidis-donus-rezervasyon</tag>
+   <comment></comment>
+   <testCaseGuid>968dbc49-41a3-45cc-b1c9-7120fb9f878a</testCaseGuid>
+</TestCaseEntity>

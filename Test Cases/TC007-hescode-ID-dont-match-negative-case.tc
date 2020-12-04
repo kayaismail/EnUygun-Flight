@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>hes kod ile tc ayni kisiye ait olmama senaryosu</description>
+   <name>TC007-hescode-ID-dont-match-negative-case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c21aee73-5a56-4cec-9f8c-5408a9a98e00</testCaseGuid>
+</TestCaseEntity>
